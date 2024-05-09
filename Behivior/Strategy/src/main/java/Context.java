@@ -7,7 +7,7 @@ public class Context {
 
     private Strategy strategy;
 
-    private Context context(){
+    private Context context(Strategy strategy){
 
     }
 }
