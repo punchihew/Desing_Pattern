@@ -8,6 +8,7 @@ public class Context {
     private Strategy strategy;
 
     private Context context(Strategy strategy){
+       this.strategy = strategy;
 
     }
 }
