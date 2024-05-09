@@ -6,6 +6,6 @@
 public class Circle implements Shape{
     @Override
     public void draw() {
-        System.out.println("CIRCLE call method");
+        System.out.println("CIRCLE : Call Circle Method");
     }
 }
