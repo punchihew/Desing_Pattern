@@ -14,5 +14,6 @@ public class Context {
 
     public int executeStrategy(){
 
+        return strategy.doOperation()
     }
 }
