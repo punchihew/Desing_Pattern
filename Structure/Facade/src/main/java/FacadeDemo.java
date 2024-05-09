@@ -8,9 +8,15 @@ public class FacadeDemo {
 
         ShapeMaker shapeMaker = new ShapeMaker();
         shapeMaker.drawCircle();
+        shapeMaker.drawRectangle();
+
+
+
 
         /*Complexity Code*/
+
           Shape shape = new Circle();
+
           shape.draw();
           Shape shape1 = new Circle();
           shape1.draw();
