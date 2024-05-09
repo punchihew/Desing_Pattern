@@ -5,5 +5,11 @@ package lk.ijse.desingPatten.Factor;
  * @author: Navishka
  * @date: 5/9/2024
  */
-public class Factory {
+public abstract class Factory {
+
+    public abstract String getA();
+    public abstract String getB();
+    public abstract String getC();
+
+
 }
