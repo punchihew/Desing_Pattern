@@ -10,15 +10,12 @@ public class FacadeDemo {
         shapeMaker.drawCircle();
         shapeMaker.drawRectangle();
 
-
-
-
         /*Complexity Code*/
 
-          Shape shape = new Circle();
+         /* Shape shape = new Circle();
 
           shape.draw();
           Shape shape1 = new Circle();
-          shape1.draw();
+          shape1.draw();*/
     }
 }
