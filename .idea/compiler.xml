@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Decorator" />
+        <module name="Facade" />
+        <module name="Behivior" />
+        <module name="Singlton" />
         <module name="Creational" />
         <module name="Factory" />
-        <module name="Facade" />
         <module name="Structure" />
-        <module name="Singlton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Decorator" target="17" />
       <module name="Facade" target="17" />
       <module name="Factory" target="17" />
       <module name="Singlton" target="17" />
