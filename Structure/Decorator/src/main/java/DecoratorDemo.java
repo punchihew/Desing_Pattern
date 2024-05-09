@@ -15,5 +15,10 @@ public class DecoratorDemo {
         circle.draw();
         System.out.println("\n Circle : Add Red Border");
         redCircle.draw();
+
+        System.out.println(" Rectangle : Normal Border");
+        redRectangle.draw();
+        System.out.println("\n Rectangle : Add Red Border");
+        redRectangle.draw();
     }
 }
