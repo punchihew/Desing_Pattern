@@ -10,4 +10,8 @@ public abstract class ShapeDecoroter  implements Shape{
       this.decoratorShape = decoratorShape;
   }
 
+  @Override
+  public void draw(){
+      decoratorShape.draw();
+  }
 }
