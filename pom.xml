@@ -18,6 +18,7 @@
         <module>Behivior</module>
         <module>Strategy</module>
         <module>Obsserver</module>
+        <module>CopyPaste</module>
     </modules>
 
     <properties>
