@@ -17,6 +17,7 @@
         <module>Decorator</module>
         <module>Behivior</module>
         <module>Strategy</module>
+        <module>Obsserver</module>
     </modules>
 
     <properties>
