@@ -9,6 +9,7 @@
         <module name="Decorator" />
         <module name="Facade" />
         <module name="Behivior" />
+        <module name="Obsserver" />
         <module name="Singlton" />
         <module name="Creational" />
         <module name="Factory" />
@@ -21,6 +22,7 @@
       <module name="Facade" target="17" />
       <module name="Factory" target="17" />
       <module name="Singlton" target="17" />
+      <module name="Strategy" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
