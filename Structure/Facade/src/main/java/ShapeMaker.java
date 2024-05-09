@@ -11,6 +11,6 @@ public class ShapeMaker {
 
     private ShapeMaker(){
         circle = new Circle();
-        rectangle = new Rectangle()
+        rectangle = new Rectangle();
     }
 }
