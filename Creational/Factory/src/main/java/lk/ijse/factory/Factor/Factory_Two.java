@@ -1,4 +1,4 @@
-package lk.ijse.desingPatten.Factor;
+package lk.ijse.factory.Factor;
 
 /**
  * @version: v0.0.1
