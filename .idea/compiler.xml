@@ -7,7 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Creational" />
+        <module name="Factory" />
+        <module name="Facade" />
+        <module name="Structure" />
+        <module name="Singlton" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Factory" target="17" />
+      <module name="Singlton" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
