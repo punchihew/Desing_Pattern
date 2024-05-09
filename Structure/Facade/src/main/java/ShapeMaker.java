@@ -9,7 +9,7 @@ public class ShapeMaker {
 
     private Shape rectangle;
 
-    private ShapeMaker(){
+     ShapeMaker(){
         circle = new Circle();
         rectangle = new Rectangle();
     }

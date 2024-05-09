@@ -6,6 +6,9 @@
 public class FacadeDemo {
     public static void main(String[] args) {
 
+        ShapeMaker shapeMaker = new ShapeMaker();
+        shapeMaker.drawCircle();
+
         /*Complexity Code*/
           Shape shape = new Circle();
           shape.draw();
