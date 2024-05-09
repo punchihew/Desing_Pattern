@@ -6,6 +6,7 @@
 public abstract class ShapeDecoroter  implements Shape{
 
   protected Shape decoratorShape;
+
   public ShapeDecoroter(Shape decoratorShape){
       this.decoratorShape = decoratorShape;
   }
