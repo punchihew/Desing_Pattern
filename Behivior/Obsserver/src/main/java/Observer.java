@@ -3,5 +3,13 @@
  * @author: Navishka
  * @date: 5/9/2024
  */
-public class Observer {
-}
+public  abstract class Observer {
+
+    protected Subject subject;
+
+    public abstract void update();
+
+    }
+
+
+
