@@ -3,5 +3,11 @@
  * @author: Navishka
  * @date: 5/9/2024
  */
-public class ShapeDecoroter {
+public abstract class ShapeDecoroter  implements Shape{
+
+  protected Shape decoratorShape;
+  public ShapeDecoroter(Shape decoratorShape){
+      this.decoratorShape = decoratorShape;
+  }
+
 }
