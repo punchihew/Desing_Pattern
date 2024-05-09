@@ -5,5 +5,5 @@ package lk.ijse.desingPatten.Factor;
  * @author: Navishka
  * @date: 5/9/2024
  */
-public class Factor {
+public class Factory {
 }
