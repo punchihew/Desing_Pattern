@@ -3,5 +3,9 @@
  * @author: Navishka
  * @date: 5/9/2024
  */
-public class Circle {
+public class Circle implements Shape{
+    @Override
+    public void draw() {
+        System.out.println("");
+    }
 }
