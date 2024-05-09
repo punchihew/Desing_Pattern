@@ -13,4 +13,8 @@ public class ShapeMaker {
         circle = new Circle();
         rectangle = new Rectangle();
     }
+
+    public void drawCircle(){
+        circle.draw();
+    }
 }
