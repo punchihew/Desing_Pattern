@@ -1,4 +1,4 @@
-package lk.ijse.desingPatten;
+package lk.ijse.desingPatten.Singlton;
 
 import java.io.Serializable;
 

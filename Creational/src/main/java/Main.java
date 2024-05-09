@@ -1,4 +1,4 @@
-import lk.ijse.desingPatten.Singlton;
+import lk.ijse.desingPatten.Singlton.Singlton;
 
 /**
  * @version: v0.0.1
