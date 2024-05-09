@@ -4,4 +4,7 @@
  * @date: 5/9/2024
  */
 public class DecoratorDemo {
+    public static void main(String[] args) {
+
+    }
 }
