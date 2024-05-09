@@ -21,7 +21,7 @@ public class Singlton implements Serializable {
 //                }
 //            }
 //        }
-
+        return singlton;
     }
 
 
