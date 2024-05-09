@@ -6,6 +6,11 @@
 public class ShapeMaker {
 
     private Shape circle;
+
     private Shape rectangle;
 
+    private ShapeMaker(){
+        circle = new Circle();
+        rectangle = new Rectangle()
+    }
 }
