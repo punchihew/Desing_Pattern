@@ -9,6 +9,8 @@ import java.io.Serializable;
  */
 public class Singlton implements Serializable {
 
+    private Singlton(){}
+
     private static Singlton singlton = new Singlton();
 
     public static Singlton getInstance(){
