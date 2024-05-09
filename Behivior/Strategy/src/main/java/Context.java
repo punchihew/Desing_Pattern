@@ -7,8 +7,12 @@ public class Context {
 
     private Strategy strategy;
 
-    private Context context(Strategy strategy){
+    public Context (Strategy strategy){
        this.strategy = strategy;
+
+    }
+
+    public int executeStrategy(){
 
     }
 }
